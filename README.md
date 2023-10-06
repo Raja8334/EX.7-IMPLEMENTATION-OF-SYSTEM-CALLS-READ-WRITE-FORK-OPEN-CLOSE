@@ -61,7 +61,7 @@ ALGORITHM:
 a file.
 
 3.Using getchar(), read the character and stored in the string[] array.
-
+ 
 4.The string [] array is write into a file close it.
 
 5.Then the first is opened for read only mode and read the characters and displayed it and
