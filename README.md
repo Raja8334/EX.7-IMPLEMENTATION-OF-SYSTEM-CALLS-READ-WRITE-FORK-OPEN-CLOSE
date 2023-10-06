@@ -52,7 +52,7 @@ cnt: length of buffer
 
 
 
-ALGORITHM:
+# ALGORITHM:
 ```
 1.Star the program.
 
@@ -72,7 +72,7 @@ close the file.
 
 7.Stop the program.
 ```
-PROGRAM:
+# PROGRAM:
 ```python
 #include<sys/stat.h>
 
@@ -122,7 +122,7 @@ return 0;
 
 }
 ```
-OUTPUT:
+# OUTPUT:
 
 
 ![image](https://github.com/Raja8334/EX.7-IMPLEMENTATION-OF-SYSTEM-CALLS-READ-WRITE-FORK-OPEN-CLOSE/assets/120719634/8e462381-9dbe-4865-ac13-35be146da814)
